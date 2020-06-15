@@ -1,5 +1,6 @@
-# poc-colaborativa
-Prueba de trabajo colaborativas
+# Prueba de Concepto de Trabajo Colaborativo
+
+Prueba de trabajo colaborativas para el ramo de Aqruitectura de Software
 
 ## Antes de Comenzar 
 
@@ -11,7 +12,10 @@ _Subir Cambios a rama **Master** hasta que se definan lineas generales de flujo 
 
 ## Documentación
 
+_Pasos Primeros para el trabajo colbaorativo, es clonar en tu equipo el repositorio_
 _Crear formatos Generales de la estructura del Proyecto_
+_Clonar Repositorio en maquina Local_
+_Subir Cambios a rama **Master** hasta que se definan lineas generales de flujo de trabajo_
 
 ## Colaboradores
 
@@ -24,3 +28,4 @@ _Crear formatos Generales de la estructura del Proyecto_
 * Formatear archivo con formato correcto
 * Actualizar ramas de Desarrollo
 * Crear flujo de Trabajo
+
